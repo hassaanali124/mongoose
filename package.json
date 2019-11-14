@@ -1,7 +1,7 @@
 {
   "name": "hassaan",
   "version": "1.0.0",
-  "description": "",
+  "description": "learning",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/hassaanali124/mongoose.git"
   },
-  "author": "",
+  "author": "hassaan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hassaanali124/mongoose/issues"
